@@ -15,7 +15,7 @@ I am Shoxruh. My last name is Abdumannobov. I was born in 2008 year. I'm Tajik. 
 **My skills**
 
 <pre>
-HTML, CSS, SCSS, JS, PUG, ReactJs, Python, Bootsrap, JQuery, Redux, react-tool-kit, Express. Node.js
+HTML, CSS, SCSS, JS, PUG, ReactJs, Python, Bootsrap, JQuery, Redux, Tool-Kit, Express. Node.js
 </pre>
 
 **Find me on**
